@@ -46,6 +46,7 @@ portfolio/LeoChaparro
 │   └── app.js
 ├── index.html
 ├── CV_Leo_Chaparro.pdf
+├── README.md
 
 
 📱 Responsividad
